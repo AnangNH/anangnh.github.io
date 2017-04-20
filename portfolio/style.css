@@ -153,6 +153,29 @@ h6 {
     color: black;
 }
 
+.button2 {
+    background-color: white;
+    color: black;
+    border: 0px solid #555555;
+    border-radius: 12px;
+    padding: 3px;
+    font-family: Courier , Verdana , sans-serif;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 90px;
+    margin :20px 20px 20px 20px;
+    text-align: center;
+    font-size: 25px;
+    box-shadow: -1px 12px 19px -9px rgba(0,0,0,0.75);
+
+}
+
+.button2:hover {
+    background-color: #555555;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
 
 
 /*----------------------------------Resume-----------------------------------*/
@@ -316,4 +339,27 @@ h6 {
 .k2{
     display: inline-block;
     width: 30%;
+}
+.button3 {
+    background-color: white;
+    color: black;
+    border: 0px solid #555555;
+    border-radius: 12px;
+    padding: 3px;
+    font-family: Courier , Verdana , sans-serif;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 90px;
+    margin :20px 20px 20px 20px;
+    text-align: center;
+    font-size: 25px;
+    box-shadow: -1px 12px 19px -9px rgba(0,0,0,0.75);
+
+}
+
+.button3:hover {
+    background-color: #555555;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
